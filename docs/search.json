@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Profile Photo\n\n\n\n\n\nHi, I am Max Tan.\nThis is my personal website created using Quarto and hosted on GitHub Pages.\n\n\nI am a penultimate student in SIT studying Applied Computing! I like to play basketball and eat sushi."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Home",
-    "section": "",
-    "text": "I am a penultimate student in SIT studying Applied Computing! I like to play basketball and eat sushi."
-  },
-  {
     "objectID": "viz.html",
     "href": "viz.html",
     "title": "Data Visualization",
@@ -42,11 +28,39 @@
     "text": "Describe your final year project here."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "FPY Project.html",
+    "href": "FPY Project.html",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "My academic journey is driven by a passion for intersectional solutions—combining robust software engineering with financial logic to solve real-world business challenges.\n\n\n\n(images/photo1.jpg)\n\n\n(images/photo2.jpg)"
+  },
+  {
+    "objectID": "FPY Project.html#professional-background",
+    "href": "FPY Project.html#professional-background",
+    "title": "About Me",
+    "section": "",
+    "text": "My academic journey is driven by a passion for intersectional solutions—combining robust software engineering with financial logic to solve real-world business challenges.\n\n\n\n(images/photo1.jpg)\n\n\n(images/photo2.jpg)"
+  },
+  {
+    "objectID": "FPY Project.html#final-year-project-financial-automation",
+    "href": "FPY Project.html#final-year-project-financial-automation",
+    "title": "About Me",
+    "section": "Final Year Project: Financial Automation",
+    "text": "Final Year Project: Financial Automation\nFor my Final Year Project in Singapore Polytechnic, I collaborated with a company to streamline their internal financial operations. The primary goal was to eliminate the risks associated with manual data entry and calculation.\n\nThe Challenge\nThe company relied on manual processes for calculating Financial Year (FY) figures, which was not only time-consuming but also prone to human error. These calculations are critical for accurate reporting and compliance, making the manual approach a significant bottleneck.\n\n\nThe Solution: VBA Automation\nI developed a bespoke automation tool using VBA (Visual Basic for Applications) within Excel to: * Automate Complex Calculations: Built custom scripts to handle multi-stage FY calculations instantly. * Ensure Data Integrity: Implemented validation checks to flag inconsistencies in raw data. * Enhance Efficiency: Reduced the time spent on monthly and yearly closing processes from hours to a few minutes."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Profile Photo\n\n\n\n\n\nHi, I am Max Tan.\nThis is my personal website created using Quarto and hosted on GitHub Pages.\n\n\nI am a penultimate student in SIT studying Applied Computing! I like to play basketball and eat sushi."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "",
+    "text": "I am a penultimate student in SIT studying Applied Computing! I like to play basketball and eat sushi."
   },
   {
     "objectID": "reflection.html",
