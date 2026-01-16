@@ -1,0 +1,15 @@
+---
+title: "Reflection"
+---
+
+## Learning Reflection
+
+Through this lab and assessment, I gained hands-on experience in building and publishing a personal website using **Quarto** and **GitHub Pages**. This exercise helped me better understand how static websites are structured and how content, configuration, and styling work together to produce a complete website.
+
+One key learning outcome was working with the **YAML configuration file (`_quarto.yml`)**. By editing the YAML settings, I learned how to control the website structure, navigation bar, output directory, and overall appearance. This showed me how important configuration files are in managing larger projects efficiently.
+
+I also improved my understanding of **Quarto Markdown (`.qmd`)**, especially in organizing content across multiple pages such as the homepage, project page, data visualization page, and reflection page. Writing content in Markdown made it easier to focus on structure and readability while still allowing flexibility in formatting.
+
+Another important aspect of this lab was using **Git and GitHub** for version control and deployment. Cloning the repository, committing changes, and pushing updates helped reinforce best practices in managing code and content changes. Publishing the website through **GitHub Pages** was particularly meaningful, as it demonstrated how development work can be shared publicly in a professional manner.
+
+Overall, this lab strengthened my confidence in using modern web tools and workflows. The skills learned in this assessment will be useful for future academic projects, portfolios, and professional work where clear presentation and reproducibility are important.

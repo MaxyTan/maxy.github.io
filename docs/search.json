@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Profile Photo\n\n\n\n\n\nHi, I am Max Tan.\nThis is my personal website created using Quarto and hosted on GitHub Pages.\n\n\nI am a penultimate student in SIT studying Applied Computing! I like to play basketball and eat sushi."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "",
+    "text": "I am a penultimate student in SIT studying Applied Computing! I like to play basketball and eat sushi."
+  },
+  {
+    "objectID": "viz.html",
+    "href": "viz.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "Explain and include charts or images."
+  },
+  {
+    "objectID": "viz.html#visualizations",
+    "href": "viz.html#visualizations",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "Explain and include charts or images."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Describe your final year project here."
+  },
+  {
+    "objectID": "project.html#project-overview",
+    "href": "project.html#project-overview",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Describe your final year project here."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "Through this lab and assessment, I gained hands-on experience in building and publishing a personal website using Quarto and GitHub Pages. This exercise helped me better understand how static websites are structured and how content, configuration, and styling work together to produce a complete website.\nOne key learning outcome was working with the YAML configuration file (_quarto.yml). By editing the YAML settings, I learned how to control the website structure, navigation bar, output directory, and overall appearance. This showed me how important configuration files are in managing larger projects efficiently.\nI also improved my understanding of Quarto Markdown (.qmd), especially in organizing content across multiple pages such as the homepage, project page, data visualization page, and reflection page. Writing content in Markdown made it easier to focus on structure and readability while still allowing flexibility in formatting.\nAnother important aspect of this lab was using Git and GitHub for version control and deployment. Cloning the repository, committing changes, and pushing updates helped reinforce best practices in managing code and content changes. Publishing the website through GitHub Pages was particularly meaningful, as it demonstrated how development work can be shared publicly in a professional manner.\nOverall, this lab strengthened my confidence in using modern web tools and workflows. The skills learned in this assessment will be useful for future academic projects, portfolios, and professional work where clear presentation and reproducibility are important."
+  },
+  {
+    "objectID": "reflection.html#learning-reflection",
+    "href": "reflection.html#learning-reflection",
+    "title": "Reflection",
+    "section": "",
+    "text": "Through this lab and assessment, I gained hands-on experience in building and publishing a personal website using Quarto and GitHub Pages. This exercise helped me better understand how static websites are structured and how content, configuration, and styling work together to produce a complete website.\nOne key learning outcome was working with the YAML configuration file (_quarto.yml). By editing the YAML settings, I learned how to control the website structure, navigation bar, output directory, and overall appearance. This showed me how important configuration files are in managing larger projects efficiently.\nI also improved my understanding of Quarto Markdown (.qmd), especially in organizing content across multiple pages such as the homepage, project page, data visualization page, and reflection page. Writing content in Markdown made it easier to focus on structure and readability while still allowing flexibility in formatting.\nAnother important aspect of this lab was using Git and GitHub for version control and deployment. Cloning the repository, committing changes, and pushing updates helped reinforce best practices in managing code and content changes. Publishing the website through GitHub Pages was particularly meaningful, as it demonstrated how development work can be shared publicly in a professional manner.\nOverall, this lab strengthened my confidence in using modern web tools and workflows. The skills learned in this assessment will be useful for future academic projects, portfolios, and professional work where clear presentation and reproducibility are important."
+  }
+]

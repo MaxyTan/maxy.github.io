@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Your Name"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: project.qmd
+        text: FYP Project
+      - href: viz.qmd
+        text: Data Visualization
+      - href: reflection.qmd
+        text: Reflection
+
+format:
+  html:
+    theme: cosmo
+    css: style.css
+    toc: true

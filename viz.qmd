@@ -1,0 +1,6 @@
+---
+title: "Data Visualization"
+---
+
+## Visualizations
+Explain and include charts or images.

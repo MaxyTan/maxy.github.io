@@ -1,0 +1,18 @@
+---
+title: "Home"
+---
+::: {.columns}
+::: {.column width="30%"}
+![Profile Photo](images/photo.jpg){width=180}
+:::
+
+::: {.column width="70%"}
+
+# Welcome
+
+Hi, I am **Max Tan**.
+
+This is my personal website created using **Quarto** and hosted on **GitHub Pages**.
+
+## About Me
+I am a penultimate student in SIT studying Applied Computing! I like to play basketball and eat sushi.
