@@ -1,6 +1,0 @@
----
-title: "FYP Project"
----
-
-## Project Overview
-Describe your final year project here.

@@ -4,7 +4,7 @@
     "href": "viz.html",
     "title": "Data Visualization",
     "section": "",
-    "text": "Explain and include charts or images."
+    "text": "Loan-to-Deposit Ratio of DBS and OCBC\n\n\nThis data visualization presents a comparison of the Loan-to-Deposit (L/D) Ratio of two major Singapore banks, DBS and OCBC, across multiple years. The Loan-to-Deposit Ratio is a quantitative financial metric used to measure the proportion of a bank’s total loans relative to its total deposits within the same period.\nTypically, the ideal Loan-to-Deposit Ratio for banks lies between 80% and 90%. This range indicates that the bank has lent out 80% to 90% of its deposited funds. Since money lent out generates interest income, a bank with a very low L/D ratio may not be utilizing its deposits efficiently, which can result in lower earnings.\nFrom the visualization, we can observe that DBS consistently maintains a higher Loan-to-Deposit Ratio than OCBC over the years shown. This suggests that DBS is able to generate more interest income, as it lends out a larger proportion of its customer deposits. In contrast, OCBC maintains a slightly lower L/D ratio, indicating a more conservative lending strategy.\nThis visualization was created as part of a business analysis project during my course of study, using Tableau as the visualization tool. Tableau was chosen because it allows for interactive exploration of financial data. For example, users can interact with the data points on the chart to view additional information such as the total deposits of each bank for a specific year, providing deeper insights beyond the trend lines.\nThe rationale behind this visualization approach was to clearly communicate trends and comparisons over time using a line chart, which is well suited for time-series quantitative data. By visualizing the Loan-to-Deposit Ratio across years, stakeholders can easily assess changes in lending behavior and compare financial performance between the two banks."
   },
   {
     "objectID": "viz.html#visualizations",
@@ -28,23 +28,23 @@
     "text": "Describe your final year project here."
   },
   {
-    "objectID": "FPY Project.html",
-    "href": "FPY Project.html",
-    "title": "About Me",
+    "objectID": "FYP Project.html",
+    "href": "FYP Project.html",
+    "title": "FYP Project",
     "section": "",
-    "text": "My academic journey is driven by a passion for intersectional solutions—combining robust software engineering with financial logic to solve real-world business challenges.\n\n\n\n(images/photo1.jpg)\n\n\n(images/photo2.jpg)"
+    "text": "My academic journey is driven by a passion for intersectional solutions—combining robust software engineering with financial logic to solve real-world business challenges.\n\n\n\n\n\n\nAutomation with VBA\n\n\n\n\n\n\n\nAutomation with VBA"
   },
   {
-    "objectID": "FPY Project.html#professional-background",
-    "href": "FPY Project.html#professional-background",
-    "title": "About Me",
+    "objectID": "FYP Project.html#professional-background",
+    "href": "FYP Project.html#professional-background",
+    "title": "FYP Project",
     "section": "",
-    "text": "My academic journey is driven by a passion for intersectional solutions—combining robust software engineering with financial logic to solve real-world business challenges.\n\n\n\n(images/photo1.jpg)\n\n\n(images/photo2.jpg)"
+    "text": "My academic journey is driven by a passion for intersectional solutions—combining robust software engineering with financial logic to solve real-world business challenges.\n\n\n\n\n\n\nAutomation with VBA\n\n\n\n\n\n\n\nAutomation with VBA"
   },
   {
-    "objectID": "FPY Project.html#final-year-project-financial-automation",
-    "href": "FPY Project.html#final-year-project-financial-automation",
-    "title": "About Me",
+    "objectID": "FYP Project.html#final-year-project-financial-automation",
+    "href": "FYP Project.html#final-year-project-financial-automation",
+    "title": "FYP Project",
     "section": "Final Year Project: Financial Automation",
     "text": "Final Year Project: Financial Automation\nFor my Final Year Project in Singapore Polytechnic, I collaborated with a company to streamline their internal financial operations. The primary goal was to eliminate the risks associated with manual data entry and calculation.\n\nThe Challenge\nThe company relied on manual processes for calculating Financial Year (FY) figures, which was not only time-consuming but also prone to human error. These calculations are critical for accurate reporting and compliance, making the manual approach a significant bottleneck.\n\n\nThe Solution: VBA Automation\nI developed a bespoke automation tool using VBA (Visual Basic for Applications) within Excel to: * Automate Complex Calculations: Built custom scripts to handle multi-stage FY calculations instantly. * Ensure Data Integrity: Implemented validation checks to flag inconsistencies in raw data. * Enhance Efficiency: Reduced the time spent on monthly and yearly closing processes from hours to a few minutes."
   },
@@ -75,5 +75,12 @@
     "title": "Reflection",
     "section": "",
     "text": "Through this lab and assessment, I gained hands-on experience in building and publishing a personal website using Quarto and GitHub Pages. This exercise helped me better understand how static websites are structured and how content, configuration, and styling work together to produce a complete website.\nOne key learning outcome was working with the YAML configuration file (_quarto.yml). By editing the YAML settings, I learned how to control the website structure, navigation bar, output directory, and overall appearance. This showed me how important configuration files are in managing larger projects efficiently.\nI also improved my understanding of Quarto Markdown (.qmd), especially in organizing content across multiple pages such as the homepage, project page, data visualization page, and reflection page. Writing content in Markdown made it easier to focus on structure and readability while still allowing flexibility in formatting.\nAnother important aspect of this lab was using Git and GitHub for version control and deployment. Cloning the repository, committing changes, and pushing updates helped reinforce best practices in managing code and content changes. Publishing the website through GitHub Pages was particularly meaningful, as it demonstrated how development work can be shared publicly in a professional manner.\nOverall, this lab strengthened my confidence in using modern web tools and workflows. The skills learned in this assessment will be useful for future academic projects, portfolios, and professional work where clear presentation and reproducibility are important."
+  },
+  {
+    "objectID": "viz.html#loan-to-deposit-ratio-analysis",
+    "href": "viz.html#loan-to-deposit-ratio-analysis",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "Loan-to-Deposit Ratio of DBS and OCBC\n\n\nThis data visualization presents a comparison of the Loan-to-Deposit (L/D) Ratio of two major Singapore banks, DBS and OCBC, across multiple years. The Loan-to-Deposit Ratio is a quantitative financial metric used to measure the proportion of a bank’s total loans relative to its total deposits within the same period.\nTypically, the ideal Loan-to-Deposit Ratio for banks lies between 80% and 90%. This range indicates that the bank has lent out 80% to 90% of its deposited funds. Since money lent out generates interest income, a bank with a very low L/D ratio may not be utilizing its deposits efficiently, which can result in lower earnings.\nFrom the visualization, we can observe that DBS consistently maintains a higher Loan-to-Deposit Ratio than OCBC over the years shown. This suggests that DBS is able to generate more interest income, as it lends out a larger proportion of its customer deposits. In contrast, OCBC maintains a slightly lower L/D ratio, indicating a more conservative lending strategy.\nThis visualization was created as part of a business analysis project during my course of study, using Tableau as the visualization tool. Tableau was chosen because it allows for interactive exploration of financial data. For example, users can interact with the data points on the chart to view additional information such as the total deposits of each bank for a specific year, providing deeper insights beyond the trend lines.\nThe rationale behind this visualization approach was to clearly communicate trends and comparisons over time using a line chart, which is well suited for time-series quantitative data. By visualizing the Loan-to-Deposit Ratio across years, stakeholders can easily assess changes in lending behavior and compare financial performance between the two banks."
   }
 ]

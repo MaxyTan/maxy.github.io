@@ -1,0 +1,31 @@
+---
+title: "FYP Project"
+---
+
+## Professional Background
+My academic journey is driven by a passion for intersectional solutions—combining robust software engineering with financial logic to solve real-world business challenges.
+
+::: {layout-ncol=2}
+![Automation with VBA](images/photo1.jpg)
+
+![Automation with VBA](images/photo2.jpg)
+:::
+
+---
+
+## Final Year Project: Financial Automation
+
+For my Final Year Project in Singapore Polytechnic, I collaborated with a company to streamline their internal financial operations. The primary goal was to eliminate the risks associated with manual data entry and calculation.
+
+### The Challenge
+The company relied on manual processes for calculating **Financial Year (FY) figures**, which was not only time-consuming but also prone to human error. These calculations are critical for accurate reporting and compliance, making the manual approach a significant bottleneck.
+
+### The Solution: VBA Automation
+I developed a bespoke automation tool using **VBA (Visual Basic for Applications)** within Excel to:
+* **Automate Complex Calculations:** Built custom scripts to handle multi-stage FY calculations instantly.
+* **Ensure Data Integrity:** Implemented validation checks to flag inconsistencies in raw data.
+* **Enhance Efficiency:** Reduced the time spent on monthly and yearly closing processes from hours to a few minutes.
+
+
+
+---

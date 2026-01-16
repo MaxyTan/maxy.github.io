@@ -1,14 +1,14 @@
 ---
-title: "About Me"
+title: "FYP Project"
 ---
 
 ## Professional Background
 My academic journey is driven by a passion for intersectional solutions—combining robust software engineering with financial logic to solve real-world business challenges.
 
 ::: {layout-ncol=2}
-(images/photo1.jpg)
+![Automation with VBA](images/photo1.jpg)
 
-(images/photo2.jpg)
+![Automation with VBA](images/photo2.jpg)
 :::
 
 ---
