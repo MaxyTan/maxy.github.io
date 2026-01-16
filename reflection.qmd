@@ -8,8 +8,26 @@ Through this lab and assessment, I gained hands-on experience in building and pu
 
 One key learning outcome was working with the **YAML configuration file (`_quarto.yml`)**. By editing the YAML settings, I learned how to control the website structure, navigation bar, output directory, and overall appearance. This showed me how important configuration files are in managing larger projects efficiently.
 
-I also improved my understanding of **Quarto Markdown (`.qmd`)**, especially in organizing content across multiple pages such as the homepage, project page, data visualization page, and reflection page. Writing content in Markdown made it easier to focus on structure and readability while still allowing flexibility in formatting.
+I also improved my understanding of **Quarto Markdown (`.qmd`)**, especially in organising content across multiple pages such as the homepage, project page, data visualisation page, and reflection page. Writing content in Markdown made it easier to focus on structure and readability while still allowing flexibility in formatting.
 
 Another important aspect of this lab was using **Git and GitHub** for version control and deployment. Cloning the repository, committing changes, and pushing updates helped reinforce best practices in managing code and content changes. Publishing the website through **GitHub Pages** was particularly meaningful, as it demonstrated how development work can be shared publicly in a professional manner.
 
-Overall, this lab strengthened my confidence in using modern web tools and workflows. The skills learned in this assessment will be useful for future academic projects, portfolios, and professional work where clear presentation and reproducibility are important.
+---
+
+## Reflection on the use of GenAI
+
+For this assessment, I utilised **Gemini** as a GenAI assistant to help navigate the technical complexities of web development and version control. I chose this tool because of its ability to provide real-time, step-by-step guidance tailored to the specific errors I encountered.
+
+### How GenAI Assisted My Progress
+The tool was instrumental in overcoming several "silent" errors that occurred during the rendering process. For example:
+* **Troubleshooting Render Issues:** When my website failed to update after editing, the GenAI provided a checklist to clear the `.quarto` cache and verify my `_quarto.yml` indentation, which resolved the issue immediately.
+* **Asset Management:** I initially struggled with photos not appearing on the live site. The assistant explained the logic of relative file paths and the importance of the `_site` folder structure, allowing me to successfully showcase my **VBA automation project**.
+* **Git Connectivity:** It provided the specific terminal commands needed to link my local project to the GitHub remote repository when the initial connection failed.
+
+### Benefits and Challenges
+The primary benefit of using GenAI was the reduction in "downtime" spent searching through documentation for specific error codes. It acted as a personalised tutor that understood the context of my **Applied Computing and Fintech** background. 
+
+However, a challenge I noted was the importance of **prompt precision**. To get an accurate solution for the Quarto environment, I had to be very specific about my folder structure and file names. This reinforced the idea that GenAI is a collaborator that requires clear human direction to be effective.
+
+### Future Application
+Looking ahead, I see GenAI tools like Gemini becoming a staple in my professional workflow. Whether I am debugging complex financial algorithms or automating manual processes with VBA, having a conversational interface to sense-check my logic will be invaluable for both my academic studies at SIT and my future career in the fintech industry.
